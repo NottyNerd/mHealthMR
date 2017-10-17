@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "511768203884",
+    "firebase_url": "https://mhealth-mr.firebaseio.com",
+    "project_id": "mhealth-mr",
+    "storage_bucket": "mhealth-mr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511768203884:android:ca4ed1398e945e6b",
+        "android_client_info": {
+          "package_name": "io.nottynerd.mhealthmr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511768203884-osjqha714hf931a1kdpgrn3qnap7gfut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDivOInoYHiGwwceXqiFz_cOLayHhBFiJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
